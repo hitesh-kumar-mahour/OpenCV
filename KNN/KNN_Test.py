@@ -2,7 +2,6 @@ import numpy as np
 import cv2
 import os
 from capture import max_images
-# max_images=100
 
 # instantiate the camera object and haar cascade
 cam = cv2.VideoCapture(0)
